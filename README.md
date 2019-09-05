@@ -6,6 +6,6 @@
  Ejecutar este comando 
 
  ```
- npm install
+ npm installsdgfdsfsdfsdf
  
  ```
